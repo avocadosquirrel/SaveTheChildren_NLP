@@ -1,61 +1,61 @@
-communitystory_nr;name;country_clean;continent;field of study / position
-36;Ernest Fokam;Cameroon;Africa;
-7;Marwan Mostafa;Egypt;Africa;
-4;Francis Onyango ;Kenya;Africa;
-5;Sammy Omondi ;Kenya;Africa;Save the Children! BI Architect
-19;Adeniran Opeyemi Taiwo;Nigeria;Africa;graduate of Computer Science and Engineering
-6;Salma Nasir ;Sudan;Africa;
-3;Guneet Singh Kohli;India;Asia;Computer Engineering (B.E)
-8;Mitali;India;Asia;Computer Science
-21;Madhu Charan;India;Asia;undergraduate student
-22;Akhil Sanker ;India;Asia;undergraduate in Computer science with a Specialization in AI
-23;Shreya Walia;India;Asia;
-24;Yash Burad ;India;Asia;undergraduate in Information Technology
-30;Abhishek Rathour ;India;Asia;chemical engineering
-34;Ishita Goyal;India;Asia;Computer Science
-38;Saksham Jain  ;India;Asia;B.tech final year
-39;Ramaneswaran ;India;Asia;
-42;Tarun Goli;India;Asia;Bachelor's in Electronics and Communication Engineering
-43;Rahul Gopan;India;Asia;pre final year Computer Science engineering
-28;Nikolaus Siauw;Indonesia;Asia;junior data scientist
-25;Takeshi Teshima ;Japan;Asia;ML Student (4th year)
-37;Usama Hameed ;Pakistan;Asia;Bachelor of Software Engineering
-53;Erum Afzal;Pakistan;Asia;ICT, Computer Animation, Graphics
-51;Temirlan;Russia;Asia;Developer
-26;Ahmed Jyad ;Saudi Arabia;Asia;Actuarial Science graduate
-9;Wen Qing;Singapore;Asia;  
-60;Terry Maher;Denmark;Europe;Business Strategy, Freelance, NGO (PM)
-17;Saba Kiriako ;France;Europe;MSc in Data Science
-14;Rosana de Oliveira Gomes ;Germany;Europe;
-29;Wenjuan Yang ;Germany;Europe;theoretical physics
-32;Dawid Po?omka;Germany;Europe;graduated mathematics
-55;Ilias Papadopoulos;Greece;Europe;Data Analyst
-52;Chiara di Bonaventura;Italy;Europe;Data Science & Business Analytics Student
-2;Jakub Morawski;Poland;Europe;Behavioural Data Science
-20;Nuno Dias ;Portugal;Europe;Data Scientist
-16;Diego Florez-Estrada;Spain;Europe;Data Analyst
-27;alex castells ;Spain;Europe;Telecomunications Engineer
-54;Maria Guerra;Spain;Europe;Data Analyst
-15;Diana Roccaro ;Switzerland;Europe;
-57;Anna Kolbasko;UK;Europe;Linguist / Data Scientist
-33;Bita Houshmand ;Canada;North_America;Data Science and Analytics
-35;Anjali Chauhan;Canada;North_America;majoring in Statistics
-11;Erika Urena;Dominican Republic;North_America;
-1;Vinod Rangayyan;USA;North_America;
-10;Jeremy Wood ;USA;North_America;
-18;kalyan pesala ;USA;North_America;business analytics grad
-31;Alex Gorsuch;USA;North_America;serial entrepreneur and engineer
-40;Igor Tutelman;USA;North_America;
-41;Nicole Mendoza Shoblom ;USA;North_America;Staff Data Scientist
-45;Juber Rahman;USA;North_America;Computer Engineer, Ph.D. Candidate, and aspiring Research Scientist
-58;Laura Clark Murray;USA;North_America;Omdena! Computer Science
-59;Charlie Germano;USA;North_America;Save The Children! IT Security & Ops
-13;Rubens Carvalho ;Brazil;South_America;Ph.D. in theoretical physics
-56;Mateus Broilo;Brazil;South_America;Physicist / Data Scientist
-12;Juan Fernando Hernández;Colombia;South_America;
-44;Pedro Ospina;Colombia;South_America;system engineer
-46;Jonathan Torres;Colombia;South_America;Ph.D, Candidate in Electrical Engineering, I specialize in AI applied to health care
-47;Daniel Calle Castrillon;Colombia;South_America;mechanical engineer and an applied mathematics student
-48;Marcela Mora;Colombia;South_America;Statistician / Data Scientist
-49;Alejandro Ospina;Colombia;South_America;matematician / Data Scientist
-50;Julian Urrea;Colombia;South_America;Physicist / Data Scientist
+communitystory_nr;name;country_clean;continent
+36;Ernest Fokam;Cameroon;Africa
+7;Marwan Mostafa;Egypt;Africa
+4;Francis Onyango ;Kenya;Africa
+5;Sammy Omondi ;Kenya;Africa
+19;Adeniran Opeyemi Taiwo;Nigeria;Africa
+6;Salma Nasir ;Sudan;Africa
+3;Guneet Singh Kohli;India;Asia
+8;Mitali;India;Asia
+21;Madhu Charan;India;Asia
+22;Akhil Sanker ;India;Asia
+23;Shreya Walia;India;Asia
+24;Yash Burad ;India;Asia
+30;Abhishek Rathour ;India;Asia
+34;Ishita Goyal;India;Asia
+38;Saksham Jain  ;India;Asia
+39;Ramaneswaran ;India;Asia
+42;Tarun Goli;India;Asia
+43;Rahul Gopan;India;Asia
+28;Nikolaus Siauw;Indonesia;Asia
+25;Takeshi Teshima ;Japan;Asia
+37;Usama Hameed ;Pakistan;Asia
+53;Erum Afzal;Pakistan;Asia
+51;Temirlan;Russia;Asia
+26;Ahmed Jyad ;Saudi Arabia;Asia
+9;Wen Qing;Singapore;Asia
+60;Terry Maher;Denmark;Europe
+17;Saba Kiriako ;France;Europe
+14;Rosana de Oliveira Gomes ;Germany;Europe
+29;Wenjuan Yang ;Germany;Europe
+32;Dawid Po?omka;Germany;Europe
+55;Ilias Papadopoulos;Greece;Europe
+52;Chiara di Bonaventura;Italy;Europe
+2;Jakub Morawski;Poland;Europe
+20;Nuno Dias ;Portugal;Europe
+16;Diego Florez-Estrada;Spain;Europe
+27;alex castells ;Spain;Europe
+54;Maria Guerra;Spain;Europe
+15;Diana Roccaro ;Switzerland;Europe
+57;Anna Kolbasko;UK;Europe
+33;Bita Houshmand ;Canada;North_America
+35;Anjali Chauhan;Canada;North_America
+11;Erika Urena;Dominican Republic;North_America
+1;Vinod Rangayyan;USA;North_America
+10;Jeremy Wood ;USA;North_America
+18;kalyan pesala ;USA;North_America
+31;Alex Gorsuch;USA;North_America
+40;Igor Tutelman;USA;North_America
+41;Nicole Mendoza Shoblom ;USA;North_America
+45;Juber Rahman;USA;North_America
+58;Laura Clark Murray;USA;North_America
+59;Charlie Germano;USA;North_America
+13;Rubens Carvalho ;Brazil;South_America
+56;Mateus Broilo;Brazil;South_America
+12;Juan Fernando Hernández;Colombia;South_America
+44;Pedro Ospina;Colombia;South_America
+46;Jonathan Torres;Colombia;South_America
+47;Daniel Calle Castrillon;Colombia;South_America
+48;Marcela Mora;Colombia;South_America
+49;Alejandro Ospina;Colombia;South_America
+50;Julian Urrea;Colombia;South_America

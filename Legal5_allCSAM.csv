@@ -38,14 +38,14 @@ Chile;1;1;1;1;0
 China;1;0;1;0;1
 Colombia;1;1;1;1;1
 Comoros;1;0;0;1;0
-Congo, Republic of the;1;1;1;1;0
+Congo Republic of the;1;1;1;1;0
 Costa Rica;1;1;1;1;0
 Cote d'Ivoire;1;1;1;1;1
 Croatia;1;1;1;1;0
 Cuba;1;0;0;0;0
 Cyprus;1;1;1;1;0
 Czech Republic;1;0;1;1;0
-Congo, Democratic Republic of the;1;1;1;1;0
+Congo Democratic Republic of the;1;1;1;1;0
 Denmark;1;1;1;1;0
 Djibouti;1;0;1;0;0
 Dominica;1;1;1;1;0
@@ -61,7 +61,7 @@ Fiji;1;1;1;1;0
 Finland;1;1;1;1;0
 France;1;1;1;1;1
 Gabon;1;1;1;1;0
-Gambia, The;1;0;1;1;0
+Gambia;1;0;1;1;0
 Georgia;1;1;1;1;0
 Germany;1;1;1;1;0
 Ghana;1;1;1;1;0
@@ -72,7 +72,7 @@ Guinea;1;1;1;1;1
 Guinea-Bissau;0;0;0;0;0
 Guyana;1;1;1;1;1
 Haiti;1;0;0;0;0
-Holy See (Vatican City);1;1;1;1;0
+Holy See Vatican City;1;1;1;1;0
 Honduras;1;1;1;1;0
 Hong Kong;1;1;1;1;0
 Hungary;1;1;1;1;0
@@ -114,7 +114,7 @@ Marshall Islands;1;0;0;0;0
 Mauritania;1;0;1;1;0
 Mauritius;1;0;1;0;0
 Mexico;1;1;1;1;0
-Micronesia, Federated States of;0;0;0;0;0
+Micronesia Federated States of;0;0;0;0;0
 Moldova;1;1;1;1;0
 Monaco;1;1;1;1;0
 Mongolia;1;0;1;0;0
